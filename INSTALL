@@ -1,0 +1,13 @@
+
+
+
+easy_install gs2dv
+
+Or
+
+pip install gs2dv
+
+Or
+
+python setup.py install
+

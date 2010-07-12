@@ -1,0 +1,10 @@
+
+
+This is a very preliminary (gs) Grid-Service to (dv) Dedicated-Virtual Server migration script.
+
+The (gs) Grid-Service portion is read-only. It won't change a thing on your (gs) Grid-Service.
+
+The (dv) Dedicated-Virtual Server portion creates an entirely new client in Plesk and put everything there.
+
+
+Warranty: This will break everything and kick your cat. Do not use it unless you'd like to test it. 
